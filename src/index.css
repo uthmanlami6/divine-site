@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: 
+  border-box;
+}
+.h1{
+  color: blue;
+}
+input{
+    width: 200px;
+    padding: 8px;
+    margin: 10px solid black;
+    border-radius: 5px;
+}
+#loginBtn{
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  width: 200px;
+}
